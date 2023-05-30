@@ -3,5 +3,8 @@ projeto 1 ( SAUDE)
 
 Referências
 
-Youtube = modelos
-canal = CodigoTech
+Professor ensinando a criar seu portfolio 
+youtube= CodigoTech
+
+modelos parecidos com um achado navegando no youtube 
+framework front-end
