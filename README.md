@@ -2,8 +2,7 @@
 projeto 1 ( SAUDE)
 
 Referências
-
-Professor ensinando a criar seu portfolio 
+professor ensinando a fazer esse tipo de .js
 youtube= CodigoTech
 
 modelos parecidos com um achado navegando no youtube 
